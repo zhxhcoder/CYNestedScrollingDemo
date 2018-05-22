@@ -5,7 +5,7 @@ CYNestedScrollingDemo
 ![image](https://github.com/zhxhcoder/CYNestedScrollingDemo/blob/master/app/screenshots/nestScroll.gif)
 
 
-该工程是通过使用 NestedScorllingParent 嵌套 ListView 实现滑动动画功能，如下为项目要点分析
+该工程是通过使用 NestedScrollingParent 嵌套 ListView 实现滑动动画功能，如下为项目要点分析
 
 ### 1.Android nested scrolling 原理
 参考这篇文章 https://segmentfault.com/a/1190000002873657
