@@ -1,5 +1,6 @@
-# NestedScrollingDemo
-Android NestedScrolling
+# CYNestedScrollingDemo
+CYNestedScrollingDemo
+
 ### 效果显示如下
 ![image](https://github.com/zhxhcoder/CYAppBarTabDemo/blob/master/app/screenshots/nestScroll.gif)
 
