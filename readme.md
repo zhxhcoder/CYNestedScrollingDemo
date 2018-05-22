@@ -2,7 +2,7 @@
 CYNestedScrollingDemo
 
 ### 效果显示如下
-![image](https://github.com/zhxhcoder/CYAppBarTabDemo/blob/master/app/screenshots/nestScroll.gif)
+![image](https://github.com/zhxhcoder/CYNestedScrollingDemo/blob/master/app/screenshots/nestScroll.gif)
 
 
 该工程是通过使用 NestedScorllingParent 嵌套 ListView 实现滑动动画功能，如下为项目要点分析
