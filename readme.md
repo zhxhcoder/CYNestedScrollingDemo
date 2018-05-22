@@ -13,11 +13,11 @@ Android NestedScrolling
 由于ListView 继承 AbsListView，而在Android5.0 api中AbsListView 中添加了NestedScrolling 交互机制，如下
 ```java
 @Override
-public boolean onTouchEvent(MotionEvent ev) { 
+public boolean onTouchEvent(MotionEvent ev) {
    ···
    startNestedScroll(SCROLL_AXIS_VERTICAL);
    ···
-   }     
+   }
 
 private void scrollIfNeeded(int x, int y, MotionEvent vtev) {
         ···
